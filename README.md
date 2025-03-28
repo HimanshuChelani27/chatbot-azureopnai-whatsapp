@@ -1,4 +1,4 @@
-# 📄 **README: Flask Chatbot with Twilio and Azure OpenAI**
+# 📄 **Flask Chatbot with Twilio and Azure OpenAI**
 
 This project implements a **Flask-based chatbot** that integrates with **Twilio** for receiving and responding to **WhatsApp/SMS messages**, and uses **Azure OpenAI** to generate dynamic responses.
 
